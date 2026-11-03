@@ -1,0 +1,22 @@
+{
+  "wheel_id": 726,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-105",
+  "project": "retaining-wall-contractors-toowoomba-seasonal-timing-b5c1236fea",
+  "parent_t1_ref": "retainingwallstoowoomba-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall contractors toowoomba seasonal timing",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-105/",
+  "tier": "T2",
+  "writeback_nonce": "2da3ceaf567cbb21",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-toowoomba-warranty-d6f1d6d31238382c0/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-contractors-toowoomba-warranty-d6f1d6d31238382c0/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
